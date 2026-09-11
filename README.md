@@ -108,7 +108,7 @@ I use GitHub to manage my projects, track development progress, collaborate with
 
 ## 📫 Connect With Me
 
-* **GitHub:** [Your GitHub Profile](https://github.com/samraminahal)
+* **GitHub:** [Your GitHub Profile](https://github.com/samraminahal-gif)
 * **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/samraminahal/)
 
 
